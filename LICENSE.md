@@ -13,6 +13,8 @@ FREE PERSONAL LICENSE
 
 This theme is provided free of charge for PERSONAL USE ONLY.
 
+Personal use means non-commercial use only and does not include client work, business use, company use, or any form of monetization.
+
 Allowed:
 - Personal projects
 - Learning purposes
@@ -83,9 +85,10 @@ GENERAL TERMS
 
 1. Ownership of this theme remains with Kantong Aplikasi.
 2. Purchasing a license grants usage rights, not ownership.
-3. Violation of these terms results in immediate termination of license rights.
-4. No refunds once license is issued.
-5. Kantong Aplikasi reserves the right to update license terms at any time.
+3. Using the theme in a commercial environment without purchasing a valid license is a violation of this agreement.
+4. Violation of these terms results in immediate termination of license rights.
+5. No refunds once license is issued.
+6. Kantong Aplikasi reserves the right to update license terms at any time.
 
 For licensing inquiries:
 contact@kantongaplikasi.com
