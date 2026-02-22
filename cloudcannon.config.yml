@@ -30,6 +30,14 @@ collections_config:
         superscript: true
         underline: true
         undo: true
+      image:
+        expandable: true
+        height: 3
+        image_size_attributes: true
+        mime_type: image/jpeg
+        paths:
+        resize_style: contain
+        width: 3
     disable_add: false
     disable_add_folder: false
     disable_file_actions: false
