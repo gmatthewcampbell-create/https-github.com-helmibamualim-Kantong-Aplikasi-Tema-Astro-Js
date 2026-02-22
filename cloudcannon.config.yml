@@ -16,6 +16,8 @@ collections_config:
     disable_add: false
     disable_add_folder: false
     disable_file_actions: false
+editor:
+  default_path:
 timezone: America/Toronto
 markdown:
   engine: commonmark
