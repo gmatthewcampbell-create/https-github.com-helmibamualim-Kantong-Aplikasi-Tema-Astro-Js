@@ -7,6 +7,16 @@ collections_config:
     icon: wysiwyg
     url: camfasco.ca
     disable_url: false
+    preview:
+      text:
+        - text: welcome
+      subtext:
+      icon:
+      icon_color:
+      icon_background_color:
+      image:
+      metadata:
+      gallery:
     _editables:
       text:
         allow_custom_markup: true
