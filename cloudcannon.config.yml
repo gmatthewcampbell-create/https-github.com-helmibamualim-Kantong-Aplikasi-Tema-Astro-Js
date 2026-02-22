@@ -9,7 +9,7 @@ collections_config:
     disable_url: false
     preview:
       text:
-        - text: welcome
+        - text:
       subtext:
       icon:
       icon_color:
